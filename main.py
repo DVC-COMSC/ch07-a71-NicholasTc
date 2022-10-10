@@ -1,6 +1,4 @@
 
-numbers = list(map(int, input().split()))
-
 # ******************************
 # Make your Code
 # ******************************
